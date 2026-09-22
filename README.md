@@ -67,12 +67,3 @@ An exploratory data analysis project examining historical inflation patterns acr
 
 **Tools:** Jupyter Notebook, Git, GitHub
 
-
-
-
-
-
-
-**Key techniques:** data cleaning, exploratory data analysis, normalization, pandas, Matplotlib, Seaborn.
-
-[View project](LINK)
